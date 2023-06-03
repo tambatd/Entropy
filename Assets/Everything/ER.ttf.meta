@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 30be9d9b7dd1654438151bf28e7b305e
+timeCreated: 1549741572
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: 1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Entropy
+  fontNames:
+  - Entropy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60ed1c2af3e63294aa0d1cfae0e0ea09, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 0
+  useLegacyBoundsCalculation: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Everything/Intro.unity
+    guid: 23f73df62178ddb4bbe853dfa3e3f957
+  - enabled: 1
+    path: Assets/Everything/SCENE ONE.unity
+    guid: 08375eff461f223408c7f465c8dd90e0
+  - enabled: 1
+    path: Assets/Everything/Ending_Fire.unity
+    guid: d7e58d5766071d04c9f71ca3e7f7a9b2
+  - enabled: 1
+    path: Assets/Everything/Ending_Bankruptcy.unity
+    guid: c71e4285c01f2e44185b34d55827566d
+  - enabled: 1
+    path: Assets/Everything/Ending_ServerLeak.unity
+    guid: 1313e01468e80f546a907e7eb9a22e8d
+  m_configObjects: {}
